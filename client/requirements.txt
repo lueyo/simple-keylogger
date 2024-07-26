@@ -1,0 +1,13 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+evdev==1.7.1
+idna==3.7
+psutil==6.0.0
+PyGetWindow==0.0.9
+pynput==1.7.7
+pyperclip==1.9.0
+PyRect==0.2.0
+python-xlib==0.33
+requests==2.32.3
+six==1.16.0
+urllib3==2.2.2
